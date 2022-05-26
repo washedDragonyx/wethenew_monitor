@@ -10,7 +10,5 @@ Please refer to https://discord.com/developers/docs/intro for info on that.
 +add PID, KEYWORDS
 ```
 The **PID** can be found directly in the shoe's URL
-Here's an example of the desired output:
-![alt text](https://cdn.discordapp.com/attachments/979497372503658546/979517119819558962/unknown.png)
 
 Made by [@WashedDragonyx](https://twitter.com/WashedDragonyx)
