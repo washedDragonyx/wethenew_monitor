@@ -41,7 +41,6 @@ def wethenew(pid,name):
     oldSizes = ""
     while True:
         r = requests.get('https://sell.wethenew.com/api/products', params=params)
-        print(r)
         if r.status_code == 200:
             try:
                 data = json.loads(r.text)
