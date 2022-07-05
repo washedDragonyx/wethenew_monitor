@@ -1,4 +1,5 @@
 # Wethenew Monitor
+**UPDATE**: WTN added cloudflare protection, I will not opensourcing how to solve it, you can still use the code as reference
 This is a simple python script to monitor for new asks for sneakers by Wethenew on their website.
 ## Setup
 In **requirements.txt** you can find all the non-native dependencies that are necessary.
